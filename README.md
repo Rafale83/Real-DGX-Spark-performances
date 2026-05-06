@@ -1,5 +1,5 @@
 # Real-DGX-Spark-performances
-On a _tous_ phantasmé le DGX Spark dès son annonce en mars 2025 lors de la conférence GTC.
+On a _tous_ phantasmé le DGX Spark dès son annonce en mars 2025 lors de la conférence GTC. Il a fallu attendre plus de 6 mois pour mettre la main dessus.
 
 Mettre en œuvre un cluster DGX Spark, c'est goûter à la fois à l'ivresse de manipuler 360 Go de VRAM ARM64 dans son propre garage et à l'amertume de découvrir que NVFP4 plante silencieusement sur GB10 pour des modèles entiers, sans qu'aucune documentation officielle ne daigne le mentionner. 
 Chaque victoire — un Gemma3-27B bien servi, un Qwen3.5-MoE qui tient enfin la charge — se paie d'heures de débogage face à des incompatibilités matérielles que NVIDIA refuse de reconnaître publiquement, laissant la communauté reverse-engineer ce qui devrait être documenté. 

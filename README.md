@@ -7,6 +7,8 @@ La mise en réseau RoCE 200 Gbps a englouti un budget considérable en ConnectX-
 
 Au final, le DGX Spark reste une machine fascinante, mais son utilisateur doit accepter d'être simultanément ingénieur, intégrateur et bêta-testeur non rémunéré, livré à lui-même par un constructeur qui vend une vision sans assumer le service après-vente qui devrait l'accompagner.
 
+Je vous livre ici quelques performances sur single GPU.
+
 # Catalogue vLLM — DGX GB10 — 2026-05-06
 
 
